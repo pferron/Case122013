@@ -7,7 +7,7 @@ require (
 	github.com/onsi/gomega v1.20.1
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/viper v1.10.1
-	github.com/stretchr/testify v1.8.3
+	github.com/stretchr/testify v1.9.0
 	github.ibm.com/IAM/pep/v2 v2.1.3
 	github.ibm.com/alchemy-conductors/service-now-api/v3 v3.0.0-20210921082859-db7354ab6391
 )
