@@ -3,7 +3,7 @@ module github.ibm.com/germany-lab/dkaulen-tmp-test-renovate
 go 1.19
 
 require (
-	github.com/onsi/ginkgo v1.16.5
+	github.com/onsi/ginkgo/v2 v2.17.1
 	github.com/onsi/gomega v1.20.1
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/viper v1.10.1
